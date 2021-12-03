@@ -26,7 +26,7 @@
   <img src="todo-img.png">
 </p>
 
-<p align="center">Um desafio da Rocketseat para colocarmos em prática o aprendizado sobre o useState e a imutabilidade no ReactJS!</p>
+<p align="center">Um desafio da Rocketseat para colocarmos em prática o aprendizado sobre o useState e a imutabilidade no ReactJS! 🚀🚀🚀</p>
 
 ## Demo
 https://todo-ten-chi.vercel.app/
